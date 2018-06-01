@@ -35,6 +35,4 @@ For Windows, you also need to install FileChunkIO using
 
 http://codeinpython.blogspot.com/2015/08/s3-upload-large-files-to-amazon-using.html
 
-and
-
-[dara Refuge](https://github.com/datarefuge/s3uploader)
+and [data Refuge](https://github.com/datarefuge/s3uploader)
